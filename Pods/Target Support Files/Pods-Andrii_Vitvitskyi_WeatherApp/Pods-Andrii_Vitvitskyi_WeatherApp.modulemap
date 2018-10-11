@@ -1,0 +1,6 @@
+framework module Pods_Andrii_Vitvitskyi_WeatherApp {
+  umbrella header "Pods-Andrii_Vitvitskyi_WeatherApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
